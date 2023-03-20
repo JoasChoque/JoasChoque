@@ -1,5 +1,5 @@
 ## Olá, meu nome é Joas 👋
-- 🔭 Hoje trabalho com full Stack com Spring/React/MySQL
+- 🔭 Hoje sou dev Full Stack Spring/React/MySQL
 - 🌱 Estudando Spring e Angular ...
 - 📫 Contato no email: joaschoque@hotmail.com
 - 😄 Pronouns: ele/dele
