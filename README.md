@@ -21,7 +21,6 @@
 <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="right" alt="Gif Gojou" width="200" height="200" src="https://cdn.discordapp.com/attachments/290139631914319882/1087449959839826111/gojo-satoru-jujutsu-kaisen.gif"> 
 </div>
 
 ##
